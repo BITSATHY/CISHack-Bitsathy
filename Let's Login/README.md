@@ -66,7 +66,7 @@ HTML, CSS, JAVASCRIPT, NodeJS, MongoDB <br><br>
 <hr>
 <h2>Outputs:</h2>
 
-<img src = "README_Resourses/image1.jpeg" width= "400" > <span>  <img src = "README_Resourses/image2.jpeg" width= "400" >
+<img src = "https://github.com/BITSATHY/CISHack-Bitsathy/blob/1e6740dd027ff2080bd3d6594dcaf880657d4a11/Let's%20Login/README_Resourses/image1.jpeg?raw=true" width= "400" > <span>  <img src = "README_Resourses/image2.jpeg" width= "400" >
 
 <img src = "README_Resourses/image3.jpeg" width= "400" > <span><img src = "README_Resourses/image4.jpeg" width= "400" > <span>  <img src = "README_Resourses/image5.jpeg" width= "400" >
 <hr>
