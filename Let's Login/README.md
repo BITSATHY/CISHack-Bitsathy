@@ -62,7 +62,8 @@ HTML, CSS, JAVASCRIPT, NodeJS, MongoDB <br><br>
 3.	Add Zones <br>
 <hr>
 <h2>Working Models 👇</h2>
-  <img src = "https://github.com/BITSATHY/CISHack-Bitsathy/blob/1e6740dd027ff2080bd3d6594dcaf880657d4a11/Let's%20Login/README_Resourses/model1.JPG?raw=true" width= "500" height = "500" > <span>  <img src = "https://github.com/BITSATHY/CISHack-Bitsathy/blob/1e6740dd027ff2080bd3d6594dcaf880657d4a11/Let's%20Login/README_Resourses/model2.JPG?raw=true" width= "500" height="500">
+  <img src = "https://github.com/BITSATHY/CISHack-Bitsathy/blob/1e6740dd027ff2080bd3d6594dcaf880657d4a11/Let's%20Login/README_Resourses/model1.JPG?raw=true" width= "500" height = "500" > 
+  <span>  <img src = "https://github.com/BITSATHY/CISHack-Bitsathy/blob/1e6740dd027ff2080bd3d6594dcaf880657d4a11/Let's%20Login/README_Resourses/model2.JPG?raw=true" width= "500" height="500">
 <hr>
 <h2>Outputs:</h2>
 
